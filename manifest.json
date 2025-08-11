@@ -4,9 +4,7 @@
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Allows the user to create quests and achievements out of notes to turn notetaking into an RPG.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false,
+	"author": "GraceM599",
+	"isDesktopOnly": true,
 	"css": "styles.css"
 }
