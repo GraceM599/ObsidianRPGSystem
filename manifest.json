@@ -1,10 +1,9 @@
 {
 	"id": "rpg-leveling-system",
-	"name": "RPG Leveling Plugin",
+	"name": "RPG Leveling",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Allows the user to create quests and achievements out of notes to turn notetaking into an RPG.",
 	"author": "GraceM599",
-	"isDesktopOnly": true,
-	"css": "styles.css"
+	"isDesktopOnly": true
 }
