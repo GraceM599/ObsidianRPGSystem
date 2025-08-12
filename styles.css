@@ -50,3 +50,7 @@
 .task-item {
 	margin-left: 20px; 
 }
+.strikethrough {
+  text-decoration: line-through;
+}
+
