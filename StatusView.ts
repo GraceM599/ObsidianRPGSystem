@@ -260,10 +260,10 @@ export class StatusView extends ItemView {
 			const label = taskDiv.createEl("label", { text: taskText });
 
 			if (checkbox.checked) {
-				label.style.textDecoration = "line-through";
-			} else {
-				label.style.textDecoration = "none";
-			}
+    			label.classList.add('strikethrough');
+  			} else {
+    			label.classList.remove('strikethrough');
+  			}
 
 			// Update file on checkbox toggle
 			checkbox.addEventListener("change", async () => {
