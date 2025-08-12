@@ -117,8 +117,7 @@ Class: Mage
 
 
 
-		// Perform additional things with the ribbon
-		ribbonIconEl.addClass('my-plugin-ribbon-class');
+		
 
 		
 		this.addCommand({
